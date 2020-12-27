@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Gtk Hello
+GenericName=Gtk Hello App
+Comment=About Saying Hello
+Categories=Utility;Education;
+Exec=com.github.codewithsandaru.gtk-hello
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example;
